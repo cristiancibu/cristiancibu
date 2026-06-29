@@ -19,30 +19,37 @@ I enjoy building software that solves real problems, whether it's a web platform
 </p>
 
 **Frontend**
-
-* Angular
-* React
-* Vue
-* Ionic
-* Tailwind CSS
-* Sass
+<p align="left">
+  <img src="media/angular.svg" width="48" alt="Angular" />
+  <img src="media/react.svg" width="48" alt="React" />
+  <img src="media/vue.svg" width="48" alt="Vue" />
+  <img src="media/ionic.svg" width="48" alt="Ionic" />
+  <img src="media/tailwind-css.svg" width="48" alt="Tailwind CSS" />
+  <img src="media/sass.svg" width="48" alt="Sass" />
+</p>
 
 **Mobile**
 
-* React Native
-* Expo
+<p align="left">
+  <img src="media/react-native.svg" width="48" alt="React Native" />
+  <img src="media/expo.svg" width="48" alt="Expo" />
+</p>
 
 **Backend**
 
-* NestJS
-* GraphQL
-* TypeORM
+<p align="left">
+  <img src="media/nestjs.svg" width="48" alt="NestJS" />
+  <img src="media/graphql.svg" width="48" alt="GraphQL" />
+  <img src="media/typeorm.svg" width="48" alt="TypeORM" />
+</p>
 
 **DevOps & Tools**
 
-* Docker
-* PostgreSQL
-* Git
+<p align="left">
+  <img src="media/docker.svg" width="48" alt="Docker" />
+  <img src="media/postgresql.svg" width="48" alt="PostgreSQL" />
+  <img src="media/git.svg" width="48" alt="Git" />
+</p>
 
 ---
 
@@ -83,4 +90,4 @@ A VS Code extension that acts as your coding companion. It tracks your coding se
 
 ## ☕ Not So Fun Fact
 
-I have a habit of turning random ideas into projects at 2 AM. Some stay experiments, some become products—but I always end up learning something new.
+I have a habit of turning random ideas into projects at 2 AM. Some stay experiments, some become products, but I always end up learning something new.
