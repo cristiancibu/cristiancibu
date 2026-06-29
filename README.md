@@ -1,3 +1,5 @@
+![Banner GitHub Profile Cristian Cibu](media/banner.png)
+
 # Hi there 👋
 
 I'm **Cristian**, a full-stack developer based in **Valencia, Spain 🇪🇸**.
@@ -5,10 +7,8 @@ I'm **Cristian**, a full-stack developer based in **Valencia, Spain 🇪🇸**.
 I enjoy building software that solves real problems, whether it's a web platform, a mobile app, or a developer tool. I'm always exploring new technologies and pushing myself to learn something new. As I like to say:
 
 <p align="left">
-  <img src="media/theresearch.svg" alt="JavaScript" />
+  <img src="media/theresearch.svg" alt="The Research is never done." />
 </p>
-
----
 
 ## 🚀 Tech Stack
 
@@ -52,8 +52,6 @@ I enjoy building software that solves real problems, whether it's a web platform
   <img src="media/git.svg" width="48" alt="Git" />
 </p>
 
----
-
 ## 💡 What I'm Interested In
 
 * 🌐 Web Development
@@ -63,10 +61,6 @@ I enjoy building software that solves real problems, whether it's a web platform
 * 🧠 Developer Productivity
 
 ## 🛠 Projects
-
----
-
-### 🧱 Manobra
 
 <p align="left">
   <img src="media/manobra_logo_v5.png" width="120" alt="Manobra Logo" />
@@ -85,8 +79,6 @@ A construction marketplace that connects workers, companies, and clients in one 
 
 ---
 
-### 📡 DevCoach
-
 <p align="left">
   <img src="media/DevCoach.png" width="120" alt="DevCoach Logo" />
 </p>
@@ -99,12 +91,9 @@ A VS Code extension that acts as your coding companion. It tracks your coding se
 
 ---
 
-### 🚗 PlatePing
-
 <p align="left">
   <img src="media/plateping official logo.png" width="120" alt="PlatePing Logo" />
 </p>
-
 A real-time platform for vehicle plate tracking and notifications. Designed to detect and alert users about specific license plates with fast backend processing and mobile-first notifications.
 
 <p align="left">
