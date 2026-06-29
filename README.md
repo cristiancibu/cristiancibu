@@ -12,8 +12,11 @@ I enjoy building software that solves real problems, whether it's a web platform
 
 **Languages**
 
-* TypeScript
-* JavaScript
+<p align="left">
+  <img src="media/javascript.svg" width="48" alt="JavaScript" />
+  <img src="media/typescript.svg" width="48" alt="TypeScript" />
+  <img src="media/angular.svg" width="48" alt="Angular" />
+</p>
 
 **Frontend**
 
