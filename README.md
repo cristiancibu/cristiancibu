@@ -4,7 +4,9 @@ I'm **Cristian**, a full-stack developer based in **Valencia, Spain 🇪🇸**.
 
 I enjoy building software that solves real problems, whether it's a web platform, a mobile app, or a developer tool. I'm always exploring new technologies and pushing myself to learn something new. As I like to say:
 
-> *The research never stops.*
+<p align="left">
+  <img src="media/theresearch.svg" alt="JavaScript" />
+</p>
 
 ---
 
@@ -15,7 +17,6 @@ I enjoy building software that solves real problems, whether it's a web platform
 <p align="left">
   <img src="media/javascript.svg" width="48" alt="JavaScript" />
   <img src="media/typescript.svg" width="48" alt="TypeScript" />
-  <img src="media/angular.svg" width="48" alt="Angular" />
 </p>
 
 **Frontend**
@@ -61,23 +62,58 @@ I enjoy building software that solves real problems, whether it's a web platform
 * 🔬 Research & Experimentation
 * 🧠 Developer Productivity
 
----
-
 ## 🛠 Projects
 
-### Manobra
+---
+
+### 🧱 Manobra
+
+<p align="left">
+  <img src="media/manobra_logo_v5.png" width="120" alt="Manobra Logo" />
+</p>
 
 A construction marketplace that connects workers, companies, and clients in one platform. It includes authentication, real-time messaging, project management, reviews, and role-based access.
 
-**Tech:** Angular • NestJS • PostgreSQL • TypeORM • GraphQL • Docker
+<p align="left">
+  <img src="media/angular.svg" width="28" alt="Angular" />
+  <img src="media/nestjs.svg" width="28" alt="NestJS" />
+  <img src="media/postgresql.svg" width="28" alt="PostgreSQL" />
+  <img src="media/typeorm.svg" width="28" alt="TypeORM" />
+  <img src="media/graphql.svg" width="28" alt="GraphQL" />
+  <img src="media/docker.svg" width="28" alt="Docker" />
+</p>
 
 ---
 
-### DevCoach
+### 📡 DevCoach
+
+<p align="left">
+  <img src="media/DevCoach.png" width="120" alt="DevCoach Logo" />
+</p>
 
 A VS Code extension that acts as your coding companion. It tracks your coding sessions, helps you build healthier programming habits, and provides productivity insights with real-time reminders.
 
-**Tech:** TypeScript • VS Code API • Node.js
+<p align="left">
+  <img src="media/typescript.svg" width="28" alt="TypeScript" />
+</p>
+
+---
+
+### 🚗 PlatePing
+
+<p align="left">
+  <img src="media/plateping official logo.png" width="120" alt="PlatePing Logo" />
+</p>
+
+A real-time platform for vehicle plate tracking and notifications. Designed to detect and alert users about specific license plates with fast backend processing and mobile-first notifications.
+
+<p align="left">
+  <img src="media/react.svg" width="28" alt="React" />
+  <img src="media/react-native.svg" width="28" alt="React Native" />
+  <img src="media/nestjs.svg" width="28" alt="NestJS" />
+  <img src="media/postgresql.svg" width="28" alt="PostgreSQL" />
+</p>
+
 
 ---
 
